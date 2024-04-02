@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "linearSystem2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "linearSystem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linearSystem2-Debug-1f56e1f3d2572e498dbc.json",
+					"name" : "linearSystem2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Leonardo/OneDrive/Desktop/PCS2024_Exercises/Esercitazione_2_Eigen/build-Exercise2-Desktop-Debug",
+		"source" : "C:/Users/Leonardo/OneDrive/Desktop/PCS2024_Exercises/Esercitazione_2_Eigen/Exercise2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
